@@ -1,0 +1,11 @@
+# Conda environment files
+.conda/
+.DS_Store
+
+# Input and output folder contents
+input/*
+output/*
+
+# Keep the folders themselves
+!input/.gitkeep
+!output/.gitkeep
